@@ -1,0 +1,26 @@
+{
+    "C:\\Users\\lirongfei\\Desktop\\jingoal-sass-postcss\\dest\\imgs\\2x\\icon-arrow-down.png": {
+        "width": 32,
+        "height": 32,
+        "x": 0,
+        "y": 0
+    },
+    "C:\\Users\\lirongfei\\Desktop\\jingoal-sass-postcss\\dest\\imgs\\2x\\icon-arrow-up.png": {
+        "width": 32,
+        "height": 32,
+        "x": 0,
+        "y": 16
+    },
+    "C:\\Users\\lirongfei\\Desktop\\jingoal-sass-postcss\\dest\\imgs\\2x\\icon-invite-fail.png": {
+        "width": 64,
+        "height": 64,
+        "x": 16,
+        "y": 0
+    },
+    "C:\\Users\\lirongfei\\Desktop\\jingoal-sass-postcss\\dest\\imgs\\2x\\icon-invite-success.png": {
+        "width": 64,
+        "height": 64,
+        "x": 16,
+        "y": 32
+    }
+}

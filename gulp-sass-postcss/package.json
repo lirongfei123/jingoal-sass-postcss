@@ -1,0 +1,17 @@
+{
+	"name": "libsass",
+	"version": "0.1.1",
+	"dependencies": {
+		"gulp": "latest",
+		"through2": "latest",
+		"gulp-postcss": "latest",
+		"gulp-sass": "latest",
+		"q":"latest",
+		"postcss":"latest",
+		"gulp-jingoal-thumbnail":"latest",
+		"jingoal-sprite":"latest",
+		"postcss-jingoal-sprite":"latest",
+		"postcss-jingoal":"latest"
+	}
+}
+
